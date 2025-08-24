@@ -86,5 +86,7 @@ For Management – Data-driven decisions for academic planning.
 
 6. Screenshots / Demos
 
-Tkinter Main Interface 
+This snapshot shows the users interface after login.
+Tkinter Main Interface - ![Alt text](https://github.com/utkarsh695/College-Manager/blob/main/Snapshot.college.manager.png)
+snapshot- https://github.com/utkarsh695/College-Manager/blob/main/Snapshot.college.manager.png
 
